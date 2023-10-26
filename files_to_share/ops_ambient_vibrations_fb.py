@@ -2,7 +2,7 @@
 """
 Created on Thu Oct 26 10:33:58 2023
 
-@author: lucag
+@author: LC
 """
 
 
